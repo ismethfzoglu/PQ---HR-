@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="110" viewBox="0 0 340 110" role="img" aria-label="PQ HR">
+  <title>PQ HR</title>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M14 96 V18 H40 A22 22 0 0 1 40 62 H14" stroke="#FAF7F2" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="112" cy="54" r="34" stroke="#FAF7F2" stroke-width="13"/>
+    <path d="M112 54 V34 M112 54 L126 62" stroke="#E07A5F" stroke-width="7" stroke-linecap="round"/>
+    <path d="M133 75 L150 94" stroke="#FAF7F2" stroke-width="13" stroke-linecap="butt"/>
+    <circle cx="150" cy="94" r="6.5" fill="#FAF7F2"/>
+    <path d="M192 18 V96 M192 57 H236 M236 18 V96" stroke="#EEA894" stroke-width="13" stroke-linecap="round"/>
+    <path d="M270 96 V18 H294 A20 20 0 0 1 294 58 H270 M292 58 L316 96" stroke="#EEA894" stroke-width="13" stroke-linecap="round"/>
+  </g>
+</svg>
